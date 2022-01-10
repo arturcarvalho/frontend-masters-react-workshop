@@ -11,7 +11,7 @@ export const ScratchApp = () => {
             hour: '2-digit',
             minute: '2-digit',
           })}
-        </div>
+        </div>        
         <div className="alarmToggle" data-active></div>
       </div>
     </div>
