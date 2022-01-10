@@ -15,7 +15,6 @@ export const timerMachine = createMachine(
           duration: 60,
           elapsed: 0,
         }),
-
         on: {
           TOGGLE: "running",
         },
