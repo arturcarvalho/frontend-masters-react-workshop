@@ -2058,10 +2058,12 @@
   resolved "https://registry.yarnpkg.com/@xstate/graph/-/graph-1.2.0.tgz#83618bbff4f801fecb9b4f33f1d4a44e1b5a40ff"
   integrity sha512-6h8ZRmnHsg1BW2NmkM2gb1l6bJwi6SaSLi7ErFzzseLKmcQL2oWBSjHJdsdYMuD2DXFsnHbVi3WqsQE++R7nmA==
 
-"@xstate/inspect@^0.2.0":
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/@xstate/inspect/-/inspect-0.2.0.tgz#c76dacc457ba503e7ee2f8649a6dd31c73f1162f"
-  integrity sha512-HxxkEbJi7FwBCrKA4sw/fXu1c5S2fpRYN1ijPLrp4euSddOiVly9TtasnL3SyX2KI75c0qc6oOihwqbtDomJrg==
+"@xstate/inspect@^0.6.0":
+  version "0.6.0"
+  resolved "https://registry.yarnpkg.com/@xstate/inspect/-/inspect-0.6.0.tgz#a063e7c59c8b525e8f7b760ece694c75b825f669"
+  integrity sha512-MZgcFUurpgrjLzDDb+2KYp8GhSeJ5UtzTDa486x0es0xwCr0MFT9euD1xu0xqYH9b5UFY66LWt7AbMpZjgB+kw==
+  dependencies:
+    fast-safe-stringify "^2.0.7"
 
 "@xstate/react@^1.0.2":
   version "1.0.2"
